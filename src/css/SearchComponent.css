@@ -1,0 +1,23 @@
+.search-container{
+  width: 30%;
+  height: 50vh;
+  float: left;
+  border-style: solid;
+  background-color: coral;
+  margin: 15px;
+}
+
+.search-result-list {
+  list-style-type: none;
+}
+
+.search-result-item {
+  border-style: solid;
+  margin: 5px;
+  padding: 5px;
+}
+
+.search-text-input{
+  font-size: 25px;
+  margin-top: 20px;
+}

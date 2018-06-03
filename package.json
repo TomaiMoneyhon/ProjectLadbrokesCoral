@@ -1,0 +1,23 @@
+{
+  "name": "ladbrokescoral",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "npm": "^6.1.0",
+    "react": "^16.4.0",
+    "react-crossfade-image": "^1.1.1",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4",
+    "react-soundcloud-widget": "^2.0.4",
+    "react-transition-group": "^1.2.1",
+    "soundcloud": "^3.3.0",
+    "soundcloud-widget": "^0.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
